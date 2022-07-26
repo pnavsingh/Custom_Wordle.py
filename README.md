@@ -1,2 +1,3 @@
 # Custom_Wordle.py
-A simple version of the online word guessing game Worlde
+A custom version of the online word guessing game Worlde
+Includes a custom keyboard along with color cordination to show the accuracy of the guesses.
